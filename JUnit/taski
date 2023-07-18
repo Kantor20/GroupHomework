@@ -1,0 +1,17 @@
+dokonczyc arrayutil
+
+1) dokonczyc testy
+2) dopisac metody do tablic, np srednia, min, max, mediana i testy do tego
+
+
+    // Stworz klase Pracownik (imie nazwisko pensja) i Firma (nazwa) *-*
+	// przetestuj:
+	// - czy imie pracownika sie zgadza
+	// - czy dlugosc nazwy firmy sie zgadza
+	// - czy pensja pracownika sie zgadza (delta!)
+	// - czy licznosc asocjacji sie zgadza
+	// - czy licznosc ekstnesji sie zgadza
+	// - czy pensja wyliczalna dla pracownika sie zgadza
+	// - czy pensja ktora wyplaca firma wszystkim pracownikom sie zgagdza
+
+	10-20%
